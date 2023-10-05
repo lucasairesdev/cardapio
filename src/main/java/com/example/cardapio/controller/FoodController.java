@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.example.cardapio.model.FoodResponseDTO;
 import com.example.cardapio.repository.FoodRepository;
-import com.example.cardapio.response.FoodResponseDTO;
 
 
 
